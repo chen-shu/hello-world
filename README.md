@@ -1,2 +1,5 @@
 # hello-world
-for learning git
+
+Hi Humans!
+
+ChenShu here, I like dogs. wang! wang! wang!
