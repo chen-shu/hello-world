@@ -1,1 +1,14 @@
-../../.gitconfig
+[user]
+	email = chenshu@allwinnertech.com
+	name = AW_chenshu
+[push]
+	default = simple
+[color]
+	ui =auto
+[alias]
+	s = status
+	lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr)%Creset | %C(bold)%an' --abbrev-commit --date=relative
+	pl = pull --rebase
+	cl = clean -fd
+	lt = log -1
+	reset1 = reset --hard HEAD^
