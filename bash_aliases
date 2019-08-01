@@ -4,3 +4,6 @@ alias sshpld="sudo sshfs -o allow_other  -o uid=1000 -o gid=1000  -o transform_s
 
 alias fight="echo ### '(ง'̀-'́)ง' ###"
 alias df="df -h"
+alias ll="ls -alF"
+alias la="ls -A"
+alias l="ls -CF"
