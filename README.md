@@ -1,5 +1,4 @@
 # hello-world
 
-Hi Humans!
-
-ChenShu here, I like dogs. wang! wang! wang!
+I am Ripper_S～
+Swordsman on the Internet～
