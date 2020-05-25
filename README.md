@@ -1,5 +1,3 @@
-# hello-world
+# I'm Ripper_S
 
-I'm Ripper_S
-
-Swordsman on the Internet～
+# Swordsman on the Internet～
