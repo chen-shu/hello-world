@@ -1,5 +1,5 @@
 # hello-world
 
-I am Ripper_S
+I'm Ripper_S
 
 Swordsman on the Internet～
