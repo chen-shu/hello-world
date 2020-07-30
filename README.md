@@ -1,3 +1,3 @@
-# I'm Ripper_S
+# I'm Ripper-S
 
 # Swordsman on the Internet～
